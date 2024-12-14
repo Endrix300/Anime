@@ -1,5 +1,12 @@
 {
   "watchList": [],
-  "favList": [],
+  "favList": [
+    {
+      "id": 7,
+      "title": "Witch Hunter Robin",
+      "image": "https://cdn.myanimelist.net/images/anime/10/19969.jpg",
+      "element": {}
+    }
+  ],
   "vusList": []
 }
