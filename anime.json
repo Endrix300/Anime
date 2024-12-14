@@ -1,5 +1,12 @@
 {
   "watchList": [],
-  "favList": [],
+  "favList": [
+    {
+      "id": 19,
+      "title": "Monster",
+      "image": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+      "element": {}
+    }
+  ],
   "vusList": []
 }
