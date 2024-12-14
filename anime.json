@@ -1,5 +1,12 @@
 {
-  "watchList": [],
+  "watchList": [
+    {
+      "id": 6,
+      "title": "Trigun",
+      "image": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
+      "element": {}
+    }
+  ],
   "favList": [],
   "vusList": []
 }
